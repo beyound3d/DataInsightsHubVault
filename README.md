@@ -1,41 +1,7 @@
 # dbchronic
 
-## Keyword for MYSQL
-```
-FROM
-```
-
-```
-SELECT
-```
-
-```
-SELECT DISTINCT
-```
-
-```
-WHERE
-```
-
-```
-ORDER BY
-```
-
-```
-AND
-```
-
-```
-LIKE 'G%'
-```
-
-```
-OR
-```
-
-```
-NOT
-```
+## Resources
+- [w3School](https://www.w3schools.com/sql)
 
 # TCL
 - COMMIT: Saves all the changes made during the current transaction. Once committed, these changes are permanent and visible to other users.
