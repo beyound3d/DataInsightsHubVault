@@ -37,7 +37,27 @@ OR
 NOT
 ```
 
+# TCL
+- COMMIT: Saves all the changes made during the current transaction. Once committed, these changes are permanent and visible to other users.
+```
+COMMIT;
+```
 
+- ROLLBACK: Undoes all changes made in the current transaction if it hasn't been committed yet. This command is used to revert to the last committed state.
+```
+ROLLBACK;
+```
+
+- SAVEPOINT: Creates a point within a transaction to which you can later roll back. This allows for more granular control over transactions.
+
+```
+SAVEPOINT savepoint_name;
+```
+
+- SET TRANSACTION: Configures the properties of a transaction, such as its isolation level.
+```
+SET TRANSACTION ISOLATION LEVEL READ COMMITTED;
+```
 
 ## Keys
 
@@ -57,8 +77,7 @@ NOT
     name VARCHAR(100),
     email VARCHAR(100) UNIQUE
 );
-
-   ```
+```
 
 
  **Foreign Key:**
@@ -103,5 +122,6 @@ CREATE TABLE enrollment (
 );
 ```
 
+# TCL
 
 
