@@ -2,7 +2,9 @@
 
 ## Resources
 - [w3School](https://www.w3schools.com/sql)
+  
 
+<img src="https://github.com/beyound3d/DataInsightsHubVault/blob/master/tcl.png" />
 # TCL
 - COMMIT: Saves all the changes made during the current transaction. Once committed, these changes are permanent and visible to other users.
 ```
