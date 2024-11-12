@@ -1,4 +1,17 @@
 # dbchronic
+Types-
+- Relational-->MySQL, PostgreSQL, Oracle, SQL Server.
+- Non- relational-->Mongo db
+
+| **Feature**              | **Relational Databases (SQL)**               | **Non-relational Databases (NoSQL)**       |
+|--------------------------|----------------------------------------------|-------------------------------------------|
+| **Data Model**            | Tables with rows and columns (structured)    | Flexible formats (documents, key-value, graph, column-family) |
+| **Schema**                | Fixed, predefined schema                     | Flexible or schema-less                   |
+| **Scaling**               | Vertical scaling (adding resources)          | Horizontal scaling (distributing data across nodes) |
+| **Consistency**           | ACID (strong consistency)                    | BASE (eventual consistency)              |
+| **Query Language**        | SQL                                          | NoSQL-specific query languages (e.g., MongoDB Query Language, CQL) |
+| **Transactions**          | Complex, ACID-compliant transactions         | Typically simpler, may not support full ACID transactions |
+| **Best for**              | Structured data with complex relationships   | Unstructured data, flexible, scalable systems |
 
 ## Resources
 - [w3School](https://www.w3schools.com/sql)
