@@ -107,3 +107,19 @@ CREATE TABLE enrollment (
 # TCL
 
 
+
+# Mongodb
+
+| Feature              | MongoDB Atlas                            | MongoDB Compass                        |
+|----------------------|------------------------------------------|----------------------------------------|
+| **Type**             | Cloud-based managed database service     | Desktop GUI for MongoDB                |
+| **Purpose**          | Hosting and managing MongoDB databases   | Visual interface for interacting with MongoDB data |
+| **Deployment**       | Cloud (AWS, Azure, GCP)                  | Local or remote MongoDB databases      |
+| **Main Use Case**    | Production database management           | Query building, data exploration, schema visualization |
+| **Management**       | Fully managed service (backups, scaling, monitoring) | Local database management (not managed by Compass) |
+| **Security**         | Advanced security features (encryption, VPC, IP whitelisting) | Security managed by the database itself |
+| **Access**           | Web interface or API                     | Desktop app for database exploration   |
+| **Scalability**      | Automatic scaling of resources           | N/A (depends on the underlying database) |
+
+
+
