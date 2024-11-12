@@ -13,6 +13,25 @@ Types-
 | **Transactions**          | Complex, ACID-compliant transactions         | Typically simpler, may not support full ACID transactions |
 | **Best for**              | Structured data with complex relationships   | Unstructured data, flexible, scalable systems |
 
+## Mongodb   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50" height="50">
+
+**Resources**
+- https://www.mongodb.com/
+
+
+| Feature              | MongoDB Atlas                            | MongoDB Compass                        |
+|----------------------|------------------------------------------|----------------------------------------|
+| **Type**             | Cloud-based managed database service     | Desktop GUI for MongoDB                |
+| **Purpose**          | Hosting and managing MongoDB databases   | Visual interface for interacting with MongoDB data |
+| **Deployment**       | Cloud (AWS, Azure, GCP)                  | Local or remote MongoDB databases      |
+| **Main Use Case**    | Production database management           | Query building, data exploration, schema visualization |
+| **Management**       | Fully managed service (backups, scaling, monitoring) | Local database management (not managed by Compass) |
+| **Security**         | Advanced security features (encryption, VPC, IP whitelisting) | Security managed by the database itself |
+| **Access**           | Web interface or API                     | Desktop app for database exploration   |
+| **Scalability**      | Automatic scaling of resources           | N/A (depends on the underlying database) |
+
+You might use MongoDB Atlas to host your MongoDB database in the cloud, while using MongoDB Compass to interact with and manage that database or any other MongoDB instance.
+
 ## Resources
 - [w3School](https://www.w3schools.com/sql)
   
@@ -108,18 +127,7 @@ CREATE TABLE enrollment (
 
 
 
-# Mongodb
 
-| Feature              | MongoDB Atlas                            | MongoDB Compass                        |
-|----------------------|------------------------------------------|----------------------------------------|
-| **Type**             | Cloud-based managed database service     | Desktop GUI for MongoDB                |
-| **Purpose**          | Hosting and managing MongoDB databases   | Visual interface for interacting with MongoDB data |
-| **Deployment**       | Cloud (AWS, Azure, GCP)                  | Local or remote MongoDB databases      |
-| **Main Use Case**    | Production database management           | Query building, data exploration, schema visualization |
-| **Management**       | Fully managed service (backups, scaling, monitoring) | Local database management (not managed by Compass) |
-| **Security**         | Advanced security features (encryption, VPC, IP whitelisting) | Security managed by the database itself |
-| **Access**           | Web interface or API                     | Desktop app for database exploration   |
-| **Scalability**      | Automatic scaling of resources           | N/A (depends on the underlying database) |
 
 
 
