@@ -13,6 +13,10 @@
 SELECT TABLE_SCHEMA, TABLE_NAME, TABLE_TYPE
 FROM INFORMATION_SCHEMA.TABLES;
 ```
+## -----------------------Deleting all data from table
+```
+DELETE FROM Employees;
+```
 
 ## --------------------------create tables in database
 
@@ -68,6 +72,12 @@ VALUES
 (3, 'Emily', 'Jones', '1982-02-18', '2021-01-20', 58000.00, '1982-02-18',1234567890, 'On Leave', '789 Oak St, Villagetown', 103);
 
 COMMIT TRANSACTION;
+```
+
+## ---------------------Delete data / or delete row / delete Employee data
+```
+DELETE FROM Employees
+WHERE EmployeeID = 1;
 ```
 
 ### Points to Ponder
