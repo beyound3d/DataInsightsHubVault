@@ -13,6 +13,11 @@
 SELECT TABLE_SCHEMA, TABLE_NAME, TABLE_TYPE
 FROM INFORMATION_SCHEMA.TABLES;
 ```
+### ------------------------Deleting table
+```
+DROP TABLE Table1, Employees;
+```
+
 ## -----------------------Deleting all data from table
 ```
 DELETE FROM Employees;
