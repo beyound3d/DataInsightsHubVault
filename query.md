@@ -85,6 +85,13 @@ DELETE FROM Employees
 WHERE EmployeeID = 1;
 ```
 
+### -------------------Updating data in table
+```
+UPDATE Employees
+SET Salary = 65000.00
+WHERE EmployeeID = 1;
+```
+
 ### Points to Ponder
 - Data Types: Choose appropriate data types for your columns, such as INT, NVARCHAR, DATE, DECIMAL, etc.
 - Constraints: Add constraints like PRIMARY KEY, FOREIGN KEY, UNIQUE, or CHECK as needed.
