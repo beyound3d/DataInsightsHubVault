@@ -1,12 +1,13 @@
 ### Partially Case-Sensitive-------------sql
 
+# Servers*******************************************
 ## -------------------------Creating Multiple Servers in DB
 
 
 ##  --------------------------Delete a Server
 
 
-
+# Tables***************************************************
 ## --------------------------Showing/Seeing all Tables in DB
 
 ```
