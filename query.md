@@ -18,12 +18,12 @@ FROM INFORMATION_SCHEMA.TABLES;
 DROP TABLE Table1, Employees;
 ```
 
-## -----------------------Deleting all data from table
+### -----------------------Deleting all data from table
 ```
 DELETE FROM Employees;
 ```
 
-## --------------------------create tables in database
+## --------------------------Create tables in DB
 
 **Format**
 ```
@@ -48,7 +48,7 @@ CREATE TABLE Employees (
 );
 ```
 
-## -----------------------adding new column in table
+## -----------------------Adding New Column in table
 
 **Format**
 ```
@@ -79,7 +79,7 @@ VALUES
 COMMIT TRANSACTION;
 ```
 
-## ---------------------Delete data / or delete row / delete Employee data
+### ---------------------Delete data / or delete row / delete Employee data
 ```
 DELETE FROM Employees
 WHERE EmployeeID = 1;
