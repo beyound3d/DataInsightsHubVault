@@ -1,13 +1,13 @@
-### partially case-sensitive-------------sql
+### Partially Case-Sensitive-------------sql
 
-## -------------------------creating multiple servers in database
-
-
-##  --------------------------delete a server
+## -------------------------Creating Multiple Servers in DB
 
 
+##  --------------------------Delete a Server
 
-## --------------------------for showing/seeing all tables in database
+
+
+## --------------------------Showing/Seeing all Tables in DB
 
 ```
 SELECT TABLE_SCHEMA, TABLE_NAME, TABLE_TYPE
