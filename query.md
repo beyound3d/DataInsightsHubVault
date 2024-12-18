@@ -1,3 +1,10 @@
+-------------------------creating multiple servers in database
+
+
+--------------------------delete a server
+
+
+
 --------------------------for showing/seeing all tables in database
 
 ```
