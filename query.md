@@ -1,3 +1,5 @@
+### partially case-sensitive-------------sql
+
 ## -------------------------creating multiple servers in database
 
 
