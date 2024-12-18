@@ -1,20 +1,20 @@
--------------------------creating multiple servers in database
+## -------------------------creating multiple servers in database
 
 
---------------------------delete a server
+##  --------------------------delete a server
 
 
 
---------------------------for showing/seeing all tables in database
+## --------------------------for showing/seeing all tables in database
 
 ```
 SELECT TABLE_SCHEMA, TABLE_NAME, TABLE_TYPE
 FROM INFORMATION_SCHEMA.TABLES;
 ```
 
---------------------------create tables in database
+## --------------------------create tables in database
 
-**Frmat**
+**Format**
 ```
 CREATE TABLE TableName (
     Column1 DataType [CONSTRAINT ConstraintName] [NOT NULL | NULL],
@@ -25,7 +25,7 @@ CREATE TABLE TableName (
 );
 ```
 
-
+ex:
 ```
 CREATE TABLE Employees (
     EmployeeID INT PRIMARY KEY,
@@ -37,7 +37,7 @@ CREATE TABLE Employees (
 );
 ```
 
------------------------adding new column in table
+## -----------------------adding new column in table
 
 **Format**
 ```
