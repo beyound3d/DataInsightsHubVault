@@ -13,6 +13,9 @@ Types-
 | **Transactions**          | Complex, ACID-compliant transactions         | Typically simpler, may not support full ACID transactions |
 | **Best for**              | Structured data with complex relationships   | Unstructured data, flexible, scalable systems |
 
+![image](https://github.com/user-attachments/assets/5491a1bc-18d9-42f6-b845-d0c6e7fada5b)
+
+
 ## Mongodb   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50" height="50">
 
 **Resources**
