@@ -14,6 +14,8 @@ Types-
 | **Best for**              | Structured data with complex relationships   | Unstructured data, flexible, scalable systems |
 
 ![image](https://github.com/user-attachments/assets/5491a1bc-18d9-42f6-b845-d0c6e7fada5b)
+![image](https://github.com/user-attachments/assets/5bf590d6-ac5d-4d92-822a-a471ddc3892c)
+
 
 
 ## Mongodb   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50" height="50">
