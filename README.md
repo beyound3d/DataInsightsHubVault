@@ -1,4 +1,6 @@
 # dbchronic
+![image](https://github.com/user-attachments/assets/eda5297c-12f8-4a8d-9242-453463f517ca)
+
 Types-
 - Relational-->MySQL, PostgreSQL, Oracle, SQL Server.
 - Non- relational-->Mongo db
